@@ -1,11 +1,2 @@
-http://localhost:5173/ProductDetails
-http://localhost:5173/ProductDetails
-http://localhost:5173/ProductDetails
-http://localhost:5173/ProductDetails
-http://localhost:5173/ProductDetails
-http://localhost:5173/ProductDetails
-http://localhost:5173/ProductDetails#
-http://localhost:5173/ProductDetails#
-http://localhost:5173/ProductDetails?id=5
-http://localhost:5173/ProductDetails?id=3
+1http://localhost:5173/ProductDetails?id=6
 http://localhost:5173/ProductDetails?id=3
