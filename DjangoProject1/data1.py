@@ -1,6 +1,5 @@
 from urllib import request
 
-import data
 from django.http import JsonResponse
 
 
@@ -115,7 +114,7 @@ def get_data1(request):
             "brandImageSrc": "https://tiktarh.com/wp-content/uploads/2024/07/RLg1001001www.tiktarh.com_.jpg",
             "SubproductImages": [
                 {
-                    "productImageSrc": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshp.aradbranding.com%2Fkhryd-o-frosh-kyk-shklaty-drna-ba-shrayt-fok-alaaadh&psig=AOvVaw1pLT6XrkTQTi89UdQETBft&ust=1737977438641000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODZ2tKkk4sDFQAAAAAdAAAAABAJ"},
+                    "productImageSrc": "https://shp.aradbranding.com/images/2024/07/1721912419_8890d33f31200e926ee5fdd074f5691112ae8720_1635145909.jpg"},
                 {
                     "productImageSrc": "https://img.beroozmart.com/unsafe/fit-in/450x450/files/shop/product/403234fc3e58444f85355ec3f3e0058e.jpg"},
                 {
