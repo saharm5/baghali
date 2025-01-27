@@ -9,7 +9,7 @@ def get_data(request):
             "productDetails": "بسته ۱۰۰ گرمی چیپس طعم نمک",
             "mainPrice": "۲۰,۰۰۰ تومان",
             "discount": "۱۰٪",
-            "finalPrice": "۱۸,۰۰۰ تومان",
+            "finalPrice": 18000,
             "brand": "چی توز",
             "brandImageSrc": "https://logoyab.com/wp-content/uploads/2024/06/Cheetoz-Logo-450x450.png",
             "SubproductImages": [
@@ -32,7 +32,7 @@ def get_data(request):
             "productDetails": "بسته ۵۰ گرمی پفک نمکی",
             "mainPrice": "۵,۰۰۰ تومان",
             "discount": "۵٪",
-            "finalPrice": "۴,۷۵۰ تومان",
+            "finalPrice": 4750,
             "brand": "چی توز",
             "brandImageSrc": "https://logoyab.com/wp-content/uploads/2024/06/Cheetoz-Logo-450x450.png",
             "SubproductImages": [
@@ -57,7 +57,7 @@ def get_data(request):
             "productDetails": "شکلات تلخ ۹۰ درصد، بسته ۱۵۰ گرمی",
             "mainPrice": "۱۵۰,۰۰۰ تومان",
             "discount": "۰٪",
-            "finalPrice": "۱۵۰,۰۰۰ تومان",
+            "finalPrice": 150000,
             "brand": "آیدین",
             "brandImageSrc": "https://example.com/brands/chocolatco.png",
             "SubproductImages": [
@@ -82,7 +82,7 @@ def get_data(request):
             "productDetails": "بسته ۲۰۰ گرمی پاستیل رنگی",
             "mainPrice": "۸,۰۰۰ تومان",
             "discount": "۵٪",
-            "finalPrice": "۷,۶۰۰ تومان",
+            "finalPrice": 7600,
             "brand": "شیبا",
             "brandImageSrc": "https://logoyab.com/wp-content/uploads/2024/06/Shiba-Logo-1030x1030.png",
             "SubproductImages": [
@@ -107,7 +107,7 @@ def get_data(request):
             "productDetails": "کیک شکلاتی ۴۰۰ گرمی",
             "mainPrice": "۱۰,۰۰۰ تومان",
             "discount": "۱۰٪",
-            "finalPrice": "۹,۰۰۰ تومان",
+            "finalPrice": 9000,
             "brand": "درنا",
             "brandImageSrc": "https://tiktarh.com/wp-content/uploads/2024/07/RLg1001001www.tiktarh.com_.jpg",
             "SubproductImages": [
@@ -130,7 +130,7 @@ def get_data(request):
             "productDetails": "آبنبات نعنا ۲۹ گرمی",
             "mainPrice": "۴,۰۰۰ تومان",
             "discount": "۰٪",
-            "finalPrice": "۴,۰۰۰ تومان",
+            "finalPrice": 4000,
             "brand": "منتوس",
             "brandImageSrc": "https://banner2.cleanpng.com/20180713/evf/aaww3wif1.webp",
             "SubproductImages": [
@@ -153,7 +153,7 @@ def get_data(request):
             "productDetails": "لواشک میوه‌ای ۱۵۰ گرمی",
             "mainPrice": "۵,۰۰۰ تومان",
             "discount": "۵٪",
-            "finalPrice": "۴,۷۵۰ تومان",
+            "finalPrice": 4750,
             "brand": "نازلی",
             "brandImageSrc": "https://example.com/brands/fruitco.png",
             "SubproductImages": [
@@ -176,7 +176,7 @@ def get_data(request):
             "productDetails": "تخمه آفتابگردان ۴۰ گرمی",
             "mainPrice": "۳,۰۰۰ تومان",
             "discount": "۰٪",
-            "finalPrice": "۳,۰۰۰ تومان",
+            "finalPrice": 3000,
             "brand": "مزمز",
             "brandImageSrc": "https://logoyab.com/wp-content/uploads/2023/12/%D9%84%D9%88%DA%AF%D9%88-%D9%85%D8%B2%D9%85%D8%B2-450x450.png",
             "SubproductImages": [
@@ -199,7 +199,7 @@ def get_data(request):
             "productDetails": "مینی تست مخصوص پرونان نان آوران مقدار 400 گرم",
             "mainPrice": "۴۰,۰۰۰ تومان",
             "discount": "۰٪",
-            "finalPrice": "۴۰,۰۰۰ تومان",
+            "finalPrice": 40000,
             "brand": "نان آوران",
             "brandImageSrc": "https://example.com/brands/breadco.png",
             "SubproductImages": [
@@ -222,7 +222,7 @@ def get_data(request):
             "productDetails": "شکر سفید الماس دانه - 1 کیلوگرم",
             "mainPrice": "۴۰,۵۰۰ تومان",
             "discount": "۰٪",
-            "finalPrice": "۴۰,۵۰۰ تومان",
+            "finalPrice": 40500,
             "brand": "الماس دانه",
             "brandImageSrc": "https://example.com/brands/sugarco.png",
             "SubproductImages": [
@@ -243,7 +243,7 @@ def get_data(request):
             "productDetails": "روغن آفتابگردان حاوی توکوفرول غنچه پلاس - 1500 میلی لیتر",
             "mainPrice": "۹۵,۰۰۰ تومان",
             "discount": "۱۰٪",
-            "finalPrice": "۸۵,۵۰۰ تومان",
+            "finalPrice": 85500,
             "brand": "غنچه",
             "brandImageSrc": "https://example.com/brands/oilco.png",
             "SubproductImages": [
@@ -262,7 +262,7 @@ def get_data(request):
             "productDetails": "برنج صدری هاشمی ۵ کیلویی",
             "mainPrice": "۶۰۰,۰۰۰ تومان",
             "discount": "۵٪",
-            "finalPrice": "۵۷۰,۰۰۰ تومان",
+            "finalPrice": 570000,
             "brand": "آقاجانیان",
             "brandImageSrc": "https://example.com/brands/riceco.png",
             "SubproductImages": [
@@ -283,7 +283,7 @@ def get_data(request):
             "productDetails": "ماکارونی فرمی پنه کوچک مانا ۵۰۰ گرمی",
             "mainPrice": "۶۰,۰۰۰ تومان",
             "discount": "۵٪",
-            "finalPrice": "۵۷,۰۰۰ تومان",
+            "finalPrice": 57000,
             "brand": "مانا",
             "brandImageSrc": "https://logoyab.com/wp-content/uploads/2024/06/Mana-Logo-450x450.png",
             "SubproductImages": [
@@ -304,7 +304,7 @@ def get_data(request):
             "productDetails": "پنیر پیتزا مطهر  1 کیلوگرم",
             "mainPrice": "۳۸۷,۳۹۰ تومان",
             "discount": "۲۵٪",
-            "finalPrice": "۲۹۲,۲۰۰ تومان",
+            "finalPrice": 292200,
             "brand": "مطهر",
             "brandImageSrc": "https://example.com/brands/cheeseco.png",
             "SubproductImages": [
@@ -327,7 +327,7 @@ def get_data(request):
             "productDetails": "شیر کم چرب ۱ لیتر",
             "mainPrice": "۶,۰۰۰ تومان",
             "discount": "۱۰٪",
-            "finalPrice": "۵,۴۰۰ تومان",
+            "finalPrice": 5400,
             "brand": "شیرکو",
             "brandImageSrc": "https://example.com/brands/milco.png",
             "SubproductImages": [
@@ -350,7 +350,7 @@ def get_data(request):
             "productDetails": "خامه پاستوریزه ۲۰۰ گرمی",
             "mainPrice": "۹,۰۰۰ تومان",
             "discount": "۰٪",
-            "finalPrice": "۹,۰۰۰ تومان",
+            "finalPrice": 90000,
             "brand": "خامه‌کو",
             "brandImageSrc": "https://example.com/brands/creamco.png",
             "SubproductImages": [
@@ -370,7 +370,7 @@ def get_data(request):
             "productDetails": "تخم مرغ ۱۲ عددی",
             "mainPrice": "۸,۰۰۰ تومان",
             "discount": "۵٪",
-            "finalPrice": "۷,۶۰۰ تومان",
+            "finalPrice": 7600,
             "brand": "تخم‌مرغ‌کو",
             "brandImageSrc": "https://example.com/brands/eggco.png",
             "SubproductImages": [
@@ -390,7 +390,7 @@ def get_data(request):
             "productDetails": "گوشت مرغ ۱ کیلوگرم",
             "mainPrice": "۳۰,۰۰۰ تومان",
             "discount": "۰٪",
-            "finalPrice": "۳۰,۰۰۰ تومان",
+            "finalPrice": 30000,
             "brand": "مرغ‌کو",
             "brandImageSrc": "https://example.com/brands/chickenco.png",
             "SubproductImages": [
@@ -410,7 +410,7 @@ def get_data(request):
             "productDetails": "ماهی قزل‌آلا ۵۰۰ گرمی",
             "mainPrice": "۴۰,۰۰۰ تومان",
             "discount": "۵٪",
-            "finalPrice": "۳۸,۰۰۰ تومان",
+            "finalPrice": 38000,
             "brand": "ماهی‌کو",
             "brandImageSrc": "https://example.com/brands/fishco.png",
             "SubproductImages": [
@@ -430,7 +430,7 @@ def get_data(request):
             "productDetails": "پنیر فتا ۲۵۰ گرمی",
             "mainPrice": "۱۲,۰۰۰ تومان",
             "discount": "۰٪",
-            "finalPrice": "۱۲,۰۰۰ تومان",
+            "finalPrice": 12000,
             "brand": "پنیر‌کو",
             "brandImageSrc": "https://example.com/brands/cheeseco.png",
             "SubproductImages": [
@@ -449,7 +449,7 @@ def get_data(request):
             "productDetails": "ماکارونی پنیری ۴۰۰ گرمی",
             "mainPrice": "۸,۰۰۰ تومان",
             "discount": "۰٪",
-            "finalPrice": "۸,۰۰۰ تومان",
+            "finalPrice": 8000,
             "brand": "ماکارونی‌پنیری‌کو",
             "brandImageSrc": "https://example.com/brands/pastapastico.png",
             "SubproductImages": [
@@ -469,7 +469,7 @@ def get_data(request):
             "productDetails": "پفک رنگی ۵۰ گرمی",
             "mainPrice": "۶,۰۰۰ تومان",
             "discount": "۵٪",
-            "finalPrice": "۵,۷۰۰ تومان",
+            "finalPrice": 5700,
             "brand": "پفکو",
             "brandImageSrc": "https://example.com/brands/pofco.png",
             "SubproductImages": [
@@ -489,7 +489,7 @@ def get_data(request):
             "productDetails": "آبمیوه طبیعی ۱ لیتر",
             "mainPrice": "۱۰,۰۰۰ تومان",
             "discount": "۱۰٪",
-            "finalPrice": "۹,۰۰۰ تومان",
+            "finalPrice": 9000,
             "brand": "آبمیوه‌کو",
             "brandImageSrc": "https://example.com/brands/juiceco.png",
             "SubproductImages": [
@@ -509,7 +509,7 @@ def get_data(request):
             "productDetails": "مربای توت فرنگی ۴۰۰ گرمی",
             "mainPrice": "۶,۰۰۰ تومان",
             "discount": "۵٪",
-            "finalPrice": "۵,۷۰۰ تومان",
+            "finalPrice": 5700,
             "brand": "مرباکو",
             "brandImageSrc": "https://example.com/brands/jamco.png",
             "SubproductImages": [
@@ -529,7 +529,7 @@ def get_data(request):
             "productDetails": "عسل طبیعی ۳۰۰ گرمی",
             "mainPrice": "۱۵,۰۰۰ تومان",
             "discount": "۰٪",
-            "finalPrice": "۱۵,۰۰۰ تومان",
+            "finalPrice": 15000,
             "brand": "عسل‌کو",
             "brandImageSrc": "https://example.com/brands/honeyco.png",
             "SubproductImages": [
