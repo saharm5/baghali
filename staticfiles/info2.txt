@@ -1,0 +1,3 @@
+1http://localhost:5173/ProductDetails?id=6
+http://localhost:5173/ProductDetails?id=3
+http://localhost:5173/ProductDetails?id=4

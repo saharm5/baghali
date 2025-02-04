@@ -24,21 +24,29 @@ SECRET_KEY = 'django-insecure-w=mt+1wrwm7ager@*+@9+q7eg1v)5nx_oo1&3e^b=w*5*2h^ik
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['192.168.110.104', 'localhost', '127.0.0.1']
 
 # Application definition
+# INSTALLED_APPS = [
+#     'django.contrib.admin',  # Admin app
+#     'django.contrib.auth',  # Authentication app
+#     'django.contrib.contenttypes',
+#     'django.contrib.sessions',
+#     'django.contrib.messages',
+#     'django.contrib.staticfiles',
+#     'corsheaders',
+#     'DjangoProject1',
+#     'rest_framework',
+#     'rest_framework.authtoken',
+#     'myApp'  # Your app
 INSTALLED_APPS = [
-    'django.contrib.admin',  # Admin app
-    'django.contrib.auth',  # Authentication app
+    'django.contrib.admin',
+    'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'corsheaders',
-    'DjangoProject1',
-    'myApp'  # Your app
-
-
+    'myApp',
 ]
 
 MIDDLEWARE = [
