@@ -50,6 +50,7 @@ def handle_get_request(request):
 
 
 # Handle POST request
+
 def handle_post_request(request):
     # try:
     #     data = json.loads(request.body)
